@@ -1,3 +1,3 @@
-# Codechef-919A-Supermarket
+# Codeforces-919A-Supermarket
 Problem
 ![](capture.png)
